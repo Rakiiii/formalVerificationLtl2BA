@@ -7,6 +7,9 @@
 
 #include "ltl_converter.hpp"
 
+const model::ltl::Formula& FALSEP = model::ltl::P(FALSE_PROP);
+const model::ltl::Formula& TRUEP = model::ltl::P(TRUE_PROP);
+
 using namespace model::ltl;
 
 const model::ltl::Formula& LtlConverter::trivialize(const model::ltl::Formula& formula) const {
@@ -15,9 +18,9 @@ const model::ltl::Formula& LtlConverter::trivialize(const model::ltl::Formula& f
             if (formula.arg().kind() == Formula::Kind::NOT) {
                 return LtlConverter::trivialize(formula.arg().arg());
             } else if (formula.arg().kind() == Formula::Kind::ATOM && formula.arg().prop() == TRUE_PROP) {
-                return P(FALSE_PROP);
+                return FALSEP;
             } else if (formula.arg().kind() == Formula::Kind::ATOM && formula.arg().prop() == FALSE_PROP) {
-                return P(TRUE_PROP);
+                return TRUEP;
             } else {
                 return !(LtlConverter::trivialize(formula.arg()));
             }
@@ -68,9 +71,9 @@ const model::ltl::Formula& LtlConverter::trivializeX(const model::ltl::Formula& 
             return formula;
         case Formula::Kind::ATOM:
             if (formula.arg().prop() == TRUE_PROP) {
-                return P(TRUE_PROP);
+                return TRUEP;
             } else if(formula.arg().prop() == FALSE_PROP) {
-                return P(FALSE_PROP);
+                return FALSEP;
             } else{
                 return formula;
             }
@@ -97,9 +100,9 @@ void LtlConverter::addInverse(FormulaSet *subFormulas) {
         if ((*formula)->kind() == Formula::Kind::NOT) {
             inversed.insert(&((*formula)->arg()));
         } else if((*formula)->kind() == Formula::Kind::ATOM && (*formula)->prop() == TRUE_PROP){
-            inversed.insert(&P(FALSE_PROP));
+            inversed.insert(&FALSEP);
         }else if((*formula)->kind() == Formula::Kind::ATOM && (*formula)->prop() == FALSE_PROP){
-            inversed.insert(&P(TRUE_PROP));
+            inversed.insert(&TRUEP);
         }else {
             inversed.insert(&(!(**formula)));
         }
@@ -182,6 +185,7 @@ void LtlConverter::findPures(std::vector<const model::ltl::Formula*> *subFormula
     while(flag) {
         flag = false;
         for(auto subFormula = subFormulas->begin(); subFormula != subFormulas->end(); ++subFormula) {
+            if ( findInFormulas(trues->set, *subFormula) || findInFormulas(falses->set, *subFormula) ) continue;
             switch ((*subFormula)->kind()) {
                 case model::ltl::Formula::ATOM:
                     break;
@@ -224,7 +228,10 @@ void LtlConverter::findPures(std::vector<const model::ltl::Formula*> *subFormula
                     if (findInFormulas(trues->set, &(*subFormula)->rhs())) {
                         bool res = trues->insert(*subFormula);
                         flag = flag || res;
-                    } else if (findInFormulas(trues->set, &(*subFormula)->lhs()) && findInFormulas(falses->set, &(*subFormula)->rhs())) {
+                    } else if (
+                               findInFormulas(trues->set, &(*subFormula)->lhs()) &&
+                               findInFormulas(falses->set, &(*subFormula)->rhs())
+                               ) {
                         auto newStateTrues = new std::vector<const model::ltl::Formula*>();
                         newStateTrues->reserve(trues->set->size());
                         std::copy(trues->set->begin(), trues->set->end(), std::back_inserter(*newStateTrues));
@@ -236,12 +243,14 @@ void LtlConverter::findPures(std::vector<const model::ltl::Formula*> *subFormula
                         std::copy(falses->set->begin(), falses->set->end(), std::back_inserter(*newStateFalses));
                         FormulaSet newFalsesSet(newStateFalses);
                         
+                        auto res = falses->insert(*subFormula);
+                                   flag = flag || res;
+                                   
                         auto newState = new State(newStateTrues,newStateFalses);
-                        //не корректно ибо состояние добовляется после этой операции (передавать в метод?)
                         newState->transitionMarks = marks;
                         states.push_back(newState);
                         
-                        findPures(subFormulas,&newTruesSet,&newFalsesSet,marks);
+                        findPures(subFormulas,&newFalsesSet,&newTruesSet,marks);
                     }
                     break;
                 case model::ltl::Formula::R:
@@ -356,12 +365,13 @@ void LtlConverter::constructStates(const model::ltl::Formula& formula) {
     
     while (state.next(&trues)) {
         
-        if(isAtomsContainsTrue) trues.push_back(&P(TRUE_PROP));
+        //сделать через поиск
+        if(isAtomsContainsTrue) trues.push_back(&TRUEP);
         
         std::vector<const model::ltl::Formula*> falses;
         FormulaSet falsesSet(&falses);
         
-        if(isAtomsContainsFalse) falses.push_back(&P(FALSE_PROP));
+        if(isAtomsContainsFalse) falses.push_back(&FALSEP);
         
         auto trMarks = std::set<std::string>{};
         std::stringstream stringBuilder;
@@ -409,7 +419,7 @@ void LtlConverter::constructLabels() {
     std::stringstream stringBuilder;
     for (int index = 0; index < states.size(); ++index) {
         stringBuilder.str("");
-        stringBuilder<<"S"<<index;
+        stringBuilder<<"S"<<(index+1);
         states[index]->stateLabel = stringBuilder.str();
     }
 }

@@ -14,12 +14,13 @@ int ConvertNode::nodeNumber = -1;
 
 bool printStates = false;
 bool printRequermentForTransition = false;
-bool printTransitions = true;
-bool printFinal = true;
+bool printTransitions = false;
+bool printFinal = false;
 
 int main() {
     
-    auto formula = (F(G(P("p")))) >> (!X(P("q")));
+//    auto formula = (F(G(P("p")))) >> (!X(P("q")));
+    auto formula = G(F(P("p") && P("q")));
     std::cout << "Formula: " << std::endl;
     std::cout << formula << std::endl << std::endl;
     
@@ -33,8 +34,12 @@ int main() {
     
     if (printStates) {
         for(auto state : converter.states){
-            std::cout << state->stateLabel << " = { ";
+            std::cout << state->stateLabel << " = trues: { ";
             for(auto f : *(state->trues)) {
+                if(f->kind() != model::ltl::Formula::NOT)std::cout<<*f<<" ; ";
+            }
+            std::cout<< " } falses: { ";
+            for(auto f : *(state->falses)) {
                 if(f->kind() != model::ltl::Formula::NOT)std::cout<<*f<<" ; ";
             }
             std::cout<< " } "<<std::endl;

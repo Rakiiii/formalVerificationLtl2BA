@@ -27,6 +27,8 @@ bool VectorState::next(std::vector<const model::ltl::Formula*>* trues) {
         ++index;
     }
     
+    --index;
+    
     for(;index>=0;--index){
         if (bufferVec[index]) {
             trues->push_back((*set)[index]);

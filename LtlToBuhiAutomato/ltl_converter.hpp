@@ -23,8 +23,8 @@
 #include "vector_state.hpp"
 #include "state.hpp"
 
-const std::string FALSE_PROP = "false";
-const std::string TRUE_PROP = "true";
+const std::string FALSE_PROP = *(new std::string("false"));
+const std::string TRUE_PROP = *(new std::string("true"));
 
 class LtlConverter {
 private:
