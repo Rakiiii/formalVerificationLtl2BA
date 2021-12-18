@@ -13,8 +13,8 @@
 		2D01D7DB27665F15008C3744 /* state.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2D01D7D927665F15008C3744 /* state.cpp */; };
 		2D552D472757CF5400157BE6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2D552D462757CF5400157BE6 /* main.cpp */; };
 		2D552D542757CF8C00157BE6 /* test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2D552D532757CF8C00157BE6 /* test.cpp */; };
-		2D552D572757CFA800157BE6 /* ltl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2D552D562757CFA800157BE6 /* ltl.cpp */; };
 		2D552D5A2757D03300157BE6 /* ltl_converter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2D552D582757D03300157BE6 /* ltl_converter.cpp */; };
+		2DA767F9276E3DB800866208 /* ltl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2DA767F7276E3DB800866208 /* ltl.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,12 +40,13 @@
 		2D01D7DA27665F15008C3744 /* state.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = state.hpp; sourceTree = "<group>"; };
 		2D552D432757CF5400157BE6 /* LtlToBuhiAutomato */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LtlToBuhiAutomato; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D552D462757CF5400157BE6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		2D552D522757CF8400157BE6 /* fsm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fsm.h; path = ../../../../Downloads/lib/fsm.h; sourceTree = "<group>"; };
 		2D552D532757CF8C00157BE6 /* test.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = test.cpp; path = ../../../../Downloads/lib/test.cpp; sourceTree = "<group>"; };
-		2D552D552757CFA200157BE6 /* ltl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ltl.h; path = ../../../../Downloads/lib/ltl.h; sourceTree = "<group>"; };
-		2D552D562757CFA800157BE6 /* ltl.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ltl.cpp; path = ../../../../Downloads/lib/ltl.cpp; sourceTree = "<group>"; };
 		2D552D582757D03300157BE6 /* ltl_converter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ltl_converter.cpp; sourceTree = "<group>"; };
 		2D552D592757D03300157BE6 /* ltl_converter.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ltl_converter.hpp; sourceTree = "<group>"; };
+		2DA767F5276E3CBD00866208 /* LtlToBuhiAutomato */ = {isa = PBXFileReference; lastKnownFileType = folder; name = LtlToBuhiAutomato; sourceTree = "<group>"; };
+		2DA767F6276E3DB800866208 /* fsm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fsm.h; sourceTree = "<group>"; };
+		2DA767F7276E3DB800866208 /* ltl.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ltl.cpp; sourceTree = "<group>"; };
+		2DA767F8276E3DB800866208 /* ltl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ltl.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,10 +79,11 @@
 		2D552D452757CF5400157BE6 /* LtlToBuhiAutomato */ = {
 			isa = PBXGroup;
 			children = (
-				2D552D562757CFA800157BE6 /* ltl.cpp */,
-				2D552D552757CFA200157BE6 /* ltl.h */,
+				2DA767F6276E3DB800866208 /* fsm.h */,
+				2DA767F7276E3DB800866208 /* ltl.cpp */,
+				2DA767F8276E3DB800866208 /* ltl.h */,
+				2DA767F5276E3CBD00866208 /* LtlToBuhiAutomato */,
 				2D552D532757CF8C00157BE6 /* test.cpp */,
-				2D552D522757CF8400157BE6 /* fsm.h */,
 				2D552D462757CF5400157BE6 /* main.cpp */,
 				2D552D582757D03300157BE6 /* ltl_converter.cpp */,
 				2D552D592757D03300157BE6 /* ltl_converter.hpp */,
@@ -154,11 +156,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2D552D572757CFA800157BE6 /* ltl.cpp in Sources */,
 				2D01D7D5276603F9008C3744 /* bad_formulas_set.cpp in Sources */,
 				2D552D5A2757D03300157BE6 /* ltl_converter.cpp in Sources */,
 				2D01D7DB27665F15008C3744 /* state.cpp in Sources */,
 				2D01D7D827661A81008C3744 /* vector_state.cpp in Sources */,
+				2DA767F9276E3DB800866208 /* ltl.cpp in Sources */,
 				2D552D472757CF5400157BE6 /* main.cpp in Sources */,
 				2D01D7D22763A1B7008C3744 /* convert_node.cpp in Sources */,
 				2D552D542757CF8C00157BE6 /* test.cpp in Sources */,

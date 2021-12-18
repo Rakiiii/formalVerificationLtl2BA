@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>9FC34EF9-B4EC-4738-8EDB-C592420324CE</key>
+		<key>B2629CC8-9442-4E36-A2AF-1BC7A8DF88C0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>9FC34EF9-B4EC-4738-8EDB-C592420324CE.xcactivitylog</string>
+			<string>B2629CC8-9442-4E36-A2AF-1BC7A8DF88C0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>LtlToBuhiAutomato-heghpcjdbcitkmclrudyapbufmzm</string>
 			<key>timeStartedRecording</key>
-			<real>661534711.51054597</real>
+			<real>661536189.76444995</real>
 			<key>timeStoppedRecording</key>
-			<real>661534712.15033495</real>
+			<real>661536190.64991999</real>
 			<key>title</key>
 			<string>Build target LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>9FC34EF9-B4EC-4738-8EDB-C592420324CE</string>
+			<string>B2629CC8-9442-4E36-A2AF-1BC7A8DF88C0</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
