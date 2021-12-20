@@ -58,6 +58,9 @@ private:
     
     void constructAutomaton(model::fsm::Automaton *automaton);
     
+    void printState(std::vector<const model::ltl::Formula*> *trues,std::vector<const model::ltl::Formula*> * falses);
+    void printTransitionMarks(std::set<std::string> *marks);
+    
     std::vector<ConvertNode*>* expand(ConvertNode* currentNode, std::vector<ConvertNode*>* nodes);
 public:
     std::vector<State*> states;

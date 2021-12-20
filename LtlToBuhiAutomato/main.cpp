@@ -18,9 +18,12 @@ bool printTransitions = false;
 bool printFinal = false;
 
 int main() {
-    
+    //GF(-p && Xq)
 //    auto formula = (F(G(P("p")))) >> (!X(P("q")));
-    auto formula = G(F(P("p") && P("q")));
+//    auto formula = G(F(P("p") && P("q")));
+    //(Fp) U (!p & XGq)
+    auto formula = U( F(P("p")) , !P("p") && X(G(P("q"))) );
+//    auto formula = U( F(P("p")) , !P("p") && U(X(P("q")), G(P("q"))) );
     std::cout << "Formula: " << std::endl;
     std::cout << formula << std::endl << std::endl;
     
@@ -28,7 +31,7 @@ int main() {
     
     auto automaton = converter.convert(formula);
     
-    std::cout << "Automaton: " << std::endl;
+    std::cout << std::endl<< std::endl<< std::endl<<"Automaton: " << std::endl;
     std::cout << *automaton << std::endl;
     
     
@@ -69,6 +72,5 @@ int main() {
             std::cout<< " } "<<std::endl;
         }
     }
-    
     return 0;
 }

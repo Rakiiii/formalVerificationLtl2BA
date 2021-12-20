@@ -10,6 +10,8 @@
 const model::ltl::Formula& FALSEP = model::ltl::P(FALSE_PROP);
 const model::ltl::Formula& TRUEP = model::ltl::P(TRUE_PROP);
 
+const bool PRINT_DEBUG = false;
+
 using namespace model::ltl;
 
 const model::ltl::Formula& LtlConverter::trivialize(const model::ltl::Formula& formula) const {
@@ -66,17 +68,18 @@ const model::ltl::Formula& LtlConverter::trivializeX(const model::ltl::Formula& 
         case Formula::Kind::F:
             return formula;
         case Formula::Kind::U:
-            return U(X(formula.arg().lhs()), X(formula.arg().rhs()));
+            return formula;//U(X(formula.arg().lhs()), X(formula.arg().rhs()));
         case Formula::Kind::R:
             return formula;
         case Formula::Kind::ATOM:
-            if (formula.arg().prop() == TRUE_PROP) {
-                return TRUEP;
-            } else if(formula.arg().prop() == FALSE_PROP) {
-                return FALSEP;
-            } else{
-                return formula;
-            }
+//            if (formula.arg().prop() == TRUE_PROP) {
+//                return TRUEP;
+//            } else if(formula.arg().prop() == FALSE_PROP) {
+//                return FALSEP;
+//            } else{
+//                return formula;
+//            }
+            return formula;
     }
 }
 
@@ -117,8 +120,10 @@ void LtlConverter::findAtoms(std::vector<const model::ltl::Formula*> *subFormula
     for(auto formula = subFormulas->begin(); formula != subFormulas->end(); ++formula) {
         switch ((*formula)->kind()) {
             case Formula::Kind::X:
-                atoms->insert(*formula);
-                atoms->insert(&(*formula)->arg());
+                if ((*formula)->arg().kind() == model::ltl::Formula::ATOM) {
+                    atoms->insert(*formula);
+                    atoms->insert(&(*formula)->arg());
+                }
                 break;
             case Formula::Kind::ATOM:
                 atoms->insert(*formula);
@@ -180,7 +185,10 @@ bool LtlConverter::findInFormulas(std::vector<const model::ltl::Formula*> *searc
     return false;
 }
 
+//переписать условия для && и || так чтобы учитывалось обязательное вхождение формул
 void LtlConverter::findPures(std::vector<const model::ltl::Formula*> *subFormulas,FormulaSet *falses,FormulaSet *trues, std::set<std::string> &marks) {
+    bool lhsInTrues = false, lhsInFalses = false, rhsInTrues = false, rhsInFalses = false;
+    
     bool flag = true;
     while(flag) {
         flag = false;
@@ -199,22 +207,39 @@ void LtlConverter::findPures(std::vector<const model::ltl::Formula*> *subFormula
                     }
                     break;
                 case model::ltl::Formula::AND:
-                    if (findInFormulas(trues->set, &(*subFormula)->lhs()) && findInFormulas(trues->set, &(*subFormula)->rhs())) {
+                    
+                    lhsInTrues = findInFormulas(trues->set, &(*subFormula)->lhs());
+                    lhsInFalses = findInFormulas(falses->set, &(*subFormula)->lhs());
+                    rhsInTrues = findInFormulas(trues->set, &(*subFormula)->rhs());
+                    rhsInFalses = findInFormulas(falses->set, &(*subFormula)->rhs());
+                    
+                    if (lhsInTrues && rhsInTrues) {
                         bool res = trues->insert(*subFormula);
                         flag = flag || res;
-                    } else if (findInFormulas(falses->set, &(*subFormula)->lhs()) || findInFormulas(falses->set, &(*subFormula)->rhs())) {
-                        bool res = falses->insert(*subFormula);
-                        flag = flag || res;
-                    }
+                    } else if (
+                               (lhsInFalses || rhsInFalses) &&
+                               ((lhsInTrues || lhsInFalses) && (rhsInTrues || rhsInFalses))
+                               ) {
+                                   bool res = falses->insert(*subFormula);
+                                   flag = flag || res;
+                               }
                     break;
                 case model::ltl::Formula::OR:
-                    if (findInFormulas(trues->set, &(*subFormula)->lhs()) || findInFormulas(trues->set, &(*subFormula)->rhs())) {
-                        bool res = trues->insert(*subFormula);
-                        flag = flag || res;
-                    } else if (findInFormulas(falses->set, &(*subFormula)->lhs()) && findInFormulas(falses->set, &(*subFormula)->rhs())) {
-                        bool res = falses->insert(*subFormula);
-                        flag = flag || res;
-                    }
+                    lhsInTrues = findInFormulas(trues->set, &(*subFormula)->lhs());
+                    lhsInFalses = findInFormulas(falses->set, &(*subFormula)->lhs());
+                    rhsInTrues = findInFormulas(trues->set, &(*subFormula)->rhs());
+                    rhsInFalses = findInFormulas(falses->set, &(*subFormula)->rhs());
+                    
+                    if (
+                        (lhsInTrues || rhsInTrues) &&
+                        ((lhsInTrues || lhsInFalses) && (rhsInTrues || rhsInFalses))
+                        ) {
+                            bool res = trues->insert(*subFormula);
+                            flag = flag || res;
+                        } else if (lhsInFalses && rhsInFalses) {
+                            bool res = falses->insert(*subFormula);
+                            flag = flag || res;
+                        }
                     break;
                 case model::ltl::Formula::IMPL:
                     break;
@@ -232,26 +257,53 @@ void LtlConverter::findPures(std::vector<const model::ltl::Formula*> *subFormula
                                findInFormulas(trues->set, &(*subFormula)->lhs()) &&
                                findInFormulas(falses->set, &(*subFormula)->rhs())
                                ) {
-                        auto newStateTrues = new std::vector<const model::ltl::Formula*>();
-                        newStateTrues->reserve(trues->set->size());
-                        std::copy(trues->set->begin(), trues->set->end(), std::back_inserter(*newStateTrues));
-                        FormulaSet newTruesSet(newStateTrues);
-                        newTruesSet.insert(*subFormula);
-                        
-                        auto newStateFalses = new std::vector<const model::ltl::Formula*>();
-                        newStateFalses->reserve(falses->set->size());
-                        std::copy(falses->set->begin(), falses->set->end(), std::back_inserter(*newStateFalses));
-                        FormulaSet newFalsesSet(newStateFalses);
-                        
-                        auto res = falses->insert(*subFormula);
+                                   
+                                   auto newStateTrues = new std::vector<const model::ltl::Formula*>();
+                                   newStateTrues->reserve(trues->set->size());
+                                   std::copy(trues->set->begin(), trues->set->end(), std::back_inserter(*newStateTrues));
+                                   FormulaSet newTruesSet(newStateTrues);
+                                   newTruesSet.insert(*subFormula);
+                                   
+                                   auto newStateFalses = new std::vector<const model::ltl::Formula*>();
+                                   newStateFalses->reserve(falses->set->size());
+                                   std::copy(falses->set->begin(), falses->set->end(), std::back_inserter(*newStateFalses));
+                                   FormulaSet newFalsesSet(newStateFalses);
+                                   
+                                   if(PRINT_DEBUG) {
+                                       std::cout<<std::endl<<std::endl;
+                                       std::cout<<"Split state for marks: ";
+                                       printTransitionMarks(&marks);
+                                       std::cout<<"Copy: ";
+                                       printState(trues->set, falses->set);
+                                       std::cout<<" by formula: "<<**subFormula;
+                                   }
+                                   
+                                   auto res = falses->insert(*subFormula);
                                    flag = flag || res;
                                    
-                        auto newState = new State(newStateTrues,newStateFalses);
-                        newState->transitionMarks = marks;
-                        states.push_back(newState);
-                        
-                        findPures(subFormulas,&newFalsesSet,&newTruesSet,marks);
-                    }
+                                   auto newState = new State(newStateTrues,newStateFalses);
+                                   newState->transitionMarks = marks;
+                                   states.push_back(newState);
+                                   
+                                   findPures(subFormulas,&newFalsesSet,&newTruesSet,marks);
+                                   
+                                   if(PRINT_DEBUG) {
+                                       if (newStateTrues->size() + newStateFalses->size() != subFormulas->size()) {
+                                           std::cout<<std::endl<<std::endl<<std::endl<<"NOT FUFLILLED STATE"<<std::endl;
+                                       }
+                                       
+                                       std::cout<<std::endl<<std::endl;
+                                       std::cout<<"Result state for marks split by formula: "<<**subFormula;
+                                       printTransitionMarks(&marks);
+                                       std::cout<<" state is: ";
+                                       printState(newStateTrues, newStateFalses);
+                                   }
+                               } else if (findInFormulas(falses->set, &(*subFormula)->lhs()) &&
+                                          findInFormulas(falses->set, &(*subFormula)->rhs())
+                                          ) {
+                                   bool res = falses->insert(*subFormula);
+                                   flag = flag || res;
+                               }
                     break;
                 case model::ltl::Formula::R:
                     break;
@@ -340,10 +392,20 @@ void LtlConverter::constructStates(const model::ltl::Formula& formula) {
         newF = &trivialize(*oldF);
     }while(!((*oldF) == (*newF)));
     
+    if(PRINT_DEBUG) std::cout<<"Trivialized == "<< *newF <<std::endl;
+    
     std::vector<const model::ltl::Formula*> subFormulas;
     FormulaSet subFormulasSet(&subFormulas);
     
     constructAllSubFormulas(*newF, &subFormulasSet);
+    
+    if (PRINT_DEBUG) {
+        std::cout<<"Subformulas list: ";
+        for (auto f : subFormulas) {
+            std::cout<<*f<<" ; ";
+        }
+        std::cout<<std::endl;
+    }
     
     addInverse(&subFormulasSet);
     
@@ -377,9 +439,19 @@ void LtlConverter::constructStates(const model::ltl::Formula& formula) {
         std::stringstream stringBuilder;
         
         for(auto f : trues) {
-            stringBuilder.str("");
-            stringBuilder << *f;
-            trMarks.insert(stringBuilder.str());
+            if (f->kind() != model::ltl::Formula::X ||
+                (f->kind() == model::ltl::Formula::X && f->arg().kind() == model::ltl::Formula::ATOM)) {
+                stringBuilder.str("");
+                stringBuilder << *f;
+                trMarks.insert(stringBuilder.str());
+            }
+        }
+        
+        if(PRINT_DEBUG) {
+            std::cout<<std::endl<<std::endl;
+            std::cout<<"---------------------------------------------------------------------"<<std::endl;
+            std::cout<<"Create state for marks: ";
+            printTransitionMarks(&trMarks);
         }
         
         findFalseAtoms(&atoms, &trues, &falsesSet);
@@ -400,6 +472,12 @@ void LtlConverter::constructStates(const model::ltl::Formula& formula) {
         auto newState = new State(newStateTrues,newStateFalses);
         
         newState->transitionMarks = trMarks;
+        
+        if(PRINT_DEBUG) {
+            std::cout<<std::endl<<"Result state for marks: ";
+            printTransitionMarks(&trMarks);
+            printState(&trues, &falses);
+        }
         
         states.push_back(newState);
         
@@ -624,4 +702,29 @@ void LtlConverter::copyNodes(ConvertNode* newNode, ConvertNode* currentNode) {
     
     newNode->Old.reserve(currentNode->Old.size());
     std::copy(currentNode->Old.begin(),currentNode->Old.end(),std::back_inserter(newNode->Old));
+}
+
+void LtlConverter::printState(std::vector<const model::ltl::Formula*> *trues,std::vector<const model::ltl::Formula*> *falses) {
+    if (trues != nullptr) {
+        std::cout << "trues: { ";
+        for(auto f : *(trues)) {
+            if(f->kind() != model::ltl::Formula::NOT)std::cout<<*f<<" ; ";
+        }
+    }
+    std::cout<< " } ";
+    if (falses != nullptr) {
+        std::cout<<"falses: { ";
+        for(auto f : *(falses)) {
+            if(f->kind() != model::ltl::Formula::NOT)std::cout<<*f<<" ; ";
+        }
+        std::cout<< " } ";
+    }
+}
+
+void LtlConverter::printTransitionMarks(std::set<std::string> *marks) {
+    std::cout << "marks: { ";
+    for(auto f : *(marks)) {
+        std::cout<<f<<" ; ";
+    }
+    std::cout<< " } ";
 }

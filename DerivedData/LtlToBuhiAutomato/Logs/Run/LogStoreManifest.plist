@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>039DE6D1-D606-4EA7-A553-ED1ECA9B49C6</key>
+		<key>03166EC5-0C17-4594-82CF-E1A43835C174</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>039DE6D1-D606-4EA7-A553-ED1ECA9B49C6.xcactivitylog</string>
+			<string>03166EC5-0C17-4594-82CF-E1A43835C174.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660851682.56050205</real>
+			<real>661718923.84386003</real>
 			<key>timeStoppedRecording</key>
-			<real>660851685.22042704</real>
+			<real>661718924.81704795</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>039DE6D1-D606-4EA7-A553-ED1ECA9B49C6</string>
+			<string>03166EC5-0C17-4594-82CF-E1A43835C174</string>
 		</dict>
-		<key>03B0BECC-3FCC-4EED-A0F8-4BBBFEA7702C</key>
+		<key>07270000-2CA3-4FC0-9AAC-C4548233C13E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>03B0BECC-3FCC-4EED-A0F8-4BBBFEA7702C.xcactivitylog</string>
+			<string>07270000-2CA3-4FC0-9AAC-C4548233C13E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660850175.638852</real>
+			<real>661521331.64188099</real>
 			<key>timeStoppedRecording</key>
-			<real>660850177.71228898</real>
+			<real>661521334.04786301</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>03B0BECC-3FCC-4EED-A0F8-4BBBFEA7702C</string>
+			<string>07270000-2CA3-4FC0-9AAC-C4548233C13E</string>
 		</dict>
-		<key>121CE964-33D8-429D-B75E-55FBBE53B943</key>
+		<key>081EFE78-2E27-4CDA-90E7-0CB9291A25C1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>121CE964-33D8-429D-B75E-55FBBE53B943.xcactivitylog</string>
+			<string>081EFE78-2E27-4CDA-90E7-0CB9291A25C1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661101479.84280801</real>
+			<real>661719516.37577701</real>
 			<key>timeStoppedRecording</key>
-			<real>661101481.94075298</real>
+			<real>661719518.40801096</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>121CE964-33D8-429D-B75E-55FBBE53B943</string>
+			<string>081EFE78-2E27-4CDA-90E7-0CB9291A25C1</string>
 		</dict>
-		<key>12DA0D69-8325-4FD3-A2D1-1AAE1D18CE65</key>
+		<key>0A7F8F56-BADD-4BE4-AC04-FA06AEDFED6B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>12DA0D69-8325-4FD3-A2D1-1AAE1D18CE65.xcactivitylog</string>
+			<string>0A7F8F56-BADD-4BE4-AC04-FA06AEDFED6B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661110634.59948301</real>
+			<real>661516813.78844297</real>
 			<key>timeStoppedRecording</key>
-			<real>661110636.75617802</real>
+			<real>661516852.72769701</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>12DA0D69-8325-4FD3-A2D1-1AAE1D18CE65</string>
+			<string>0A7F8F56-BADD-4BE4-AC04-FA06AEDFED6B</string>
 		</dict>
-		<key>1300683C-669B-474F-B144-A7C250E52F58</key>
+		<key>11E3BF2B-8807-4C3D-B5C9-15712494169C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1300683C-669B-474F-B144-A7C250E52F58.xcactivitylog</string>
+			<string>11E3BF2B-8807-4C3D-B5C9-15712494169C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661102030.59043801</real>
+			<real>661719125.41985202</real>
 			<key>timeStoppedRecording</key>
-			<real>661102032.47778594</real>
+			<real>661719127.34090602</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>1300683C-669B-474F-B144-A7C250E52F58</string>
+			<string>11E3BF2B-8807-4C3D-B5C9-15712494169C</string>
 		</dict>
-		<key>14BB8EF7-CEF6-40DD-B9F3-A7E94E9C029A</key>
+		<key>1A1FA345-F550-4DF2-BB4A-32DE0CBCF20C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -185,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>14BB8EF7-CEF6-40DD-B9F3-A7E94E9C029A.xcactivitylog</string>
+			<string>1A1FA345-F550-4DF2-BB4A-32DE0CBCF20C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +202,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661002665.18688798</real>
+			<real>661553994.278741</real>
 			<key>timeStoppedRecording</key>
-			<real>661002668.93712401</real>
+			<real>661553996.68007398</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>14BB8EF7-CEF6-40DD-B9F3-A7E94E9C029A</string>
+			<string>1A1FA345-F550-4DF2-BB4A-32DE0CBCF20C</string>
 		</dict>
-		<key>153C341E-A976-410C-B779-755D040B6A69</key>
+		<key>1D10A2C6-321D-4F6E-9267-A2539524DEF7</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -219,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>153C341E-A976-410C-B779-755D040B6A69.xcactivitylog</string>
+			<string>1D10A2C6-321D-4F6E-9267-A2539524DEF7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +236,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660998126.39403903</real>
+			<real>661553929.34981596</real>
 			<key>timeStoppedRecording</key>
-			<real>660998128.46725297</real>
+			<real>661553931.76136398</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>153C341E-A976-410C-B779-755D040B6A69</string>
+			<string>1D10A2C6-321D-4F6E-9267-A2539524DEF7</string>
 		</dict>
-		<key>16E2B466-31C5-4E7F-8DE2-4D283746C7B5</key>
+		<key>20644DFD-3649-45CF-9415-5364246F5DF2</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -253,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>16E2B466-31C5-4E7F-8DE2-4D283746C7B5.xcactivitylog</string>
+			<string>20644DFD-3649-45CF-9415-5364246F5DF2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +270,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661030315.54460502</real>
+			<real>661718197.557284</real>
 			<key>timeStoppedRecording</key>
-			<real>661030317.535321</real>
+			<real>661718199.39247096</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>16E2B466-31C5-4E7F-8DE2-4D283746C7B5</string>
+			<string>20644DFD-3649-45CF-9415-5364246F5DF2</string>
 		</dict>
-		<key>187DD8C9-EA89-41DB-A087-231FF3C3EFBB</key>
+		<key>23015F97-56C6-477C-97FE-AF486AAC53F3</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -287,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>187DD8C9-EA89-41DB-A087-231FF3C3EFBB.xcactivitylog</string>
+			<string>23015F97-56C6-477C-97FE-AF486AAC53F3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +304,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660952822.92482805</real>
+			<real>661517379.86080003</real>
 			<key>timeStoppedRecording</key>
-			<real>660952933.10392594</real>
+			<real>661517380.81808805</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>187DD8C9-EA89-41DB-A087-231FF3C3EFBB</string>
+			<string>23015F97-56C6-477C-97FE-AF486AAC53F3</string>
 		</dict>
-		<key>1A307BED-3F5F-4E87-A304-9E41AF4943A5</key>
+		<key>233D72A6-A681-452B-9E67-7A14850DE7BB</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -321,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1A307BED-3F5F-4E87-A304-9E41AF4943A5.xcactivitylog</string>
+			<string>233D72A6-A681-452B-9E67-7A14850DE7BB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +338,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660852804.97134495</real>
+			<real>661556828.52306902</real>
 			<key>timeStoppedRecording</key>
-			<real>660852807.62008405</real>
+			<real>661556830.87281001</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>1A307BED-3F5F-4E87-A304-9E41AF4943A5</string>
+			<string>233D72A6-A681-452B-9E67-7A14850DE7BB</string>
 		</dict>
-		<key>1E53E31C-F676-4845-88C4-0C4CC2597416</key>
+		<key>247137F8-6D88-45BE-AC93-AEB92C427F43</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -355,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1E53E31C-F676-4845-88C4-0C4CC2597416.xcactivitylog</string>
+			<string>247137F8-6D88-45BE-AC93-AEB92C427F43.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +372,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661100993.87595403</real>
+			<real>661533991.84694397</real>
 			<key>timeStoppedRecording</key>
-			<real>661100995.89192796</real>
+			<real>661533993.77168703</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>1E53E31C-F676-4845-88C4-0C4CC2597416</string>
+			<string>247137F8-6D88-45BE-AC93-AEB92C427F43</string>
 		</dict>
-		<key>20B402AD-7761-4DA4-8794-7B049E365210</key>
+		<key>28ECF01A-848C-418A-80A2-D7D07BE15599</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -389,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>20B402AD-7761-4DA4-8794-7B049E365210.xcactivitylog</string>
+			<string>28ECF01A-848C-418A-80A2-D7D07BE15599.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +406,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661002373.54066396</real>
+			<real>661542409.96970797</real>
 			<key>timeStoppedRecording</key>
-			<real>661002376.21753597</real>
+			<real>661542412.07533503</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>20B402AD-7761-4DA4-8794-7B049E365210</string>
+			<string>28ECF01A-848C-418A-80A2-D7D07BE15599</string>
 		</dict>
-		<key>214943E4-CA77-4046-B2E0-A793ED87CFE4</key>
+		<key>29D839F0-0AE8-48AC-A088-C19F2D071B20</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -423,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>214943E4-CA77-4046-B2E0-A793ED87CFE4.xcactivitylog</string>
+			<string>29D839F0-0AE8-48AC-A088-C19F2D071B20.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +440,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660850099.26176405</real>
+			<real>661533858.9059</real>
 			<key>timeStoppedRecording</key>
-			<real>660850101.21720397</real>
+			<real>661533861.19030094</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>214943E4-CA77-4046-B2E0-A793ED87CFE4</string>
+			<string>29D839F0-0AE8-48AC-A088-C19F2D071B20</string>
 		</dict>
-		<key>2198588B-126D-4F2F-8A37-7FC6FDA6ADD9</key>
+		<key>2CFA8424-5CCD-43AE-BA2A-96E37D4791AD</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -457,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2198588B-126D-4F2F-8A37-7FC6FDA6ADD9.xcactivitylog</string>
+			<string>2CFA8424-5CCD-43AE-BA2A-96E37D4791AD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +474,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660998104.46181095</real>
+			<real>661717504.39102197</real>
 			<key>timeStoppedRecording</key>
-			<real>660998106.377882</real>
+			<real>661717506.53184295</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>2198588B-126D-4F2F-8A37-7FC6FDA6ADD9</string>
+			<string>2CFA8424-5CCD-43AE-BA2A-96E37D4791AD</string>
 		</dict>
-		<key>21D6113B-A15A-488B-9725-97CA70100AB4</key>
+		<key>2E322034-70B9-4E22-BFD9-13EAC70FC492</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -491,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>21D6113B-A15A-488B-9725-97CA70100AB4.xcactivitylog</string>
+			<string>2E322034-70B9-4E22-BFD9-13EAC70FC492.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +508,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660996165.86298597</real>
+			<real>661693016.93718398</real>
 			<key>timeStoppedRecording</key>
-			<real>660996192.88018596</real>
+			<real>661693019.306319</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>21D6113B-A15A-488B-9725-97CA70100AB4</string>
+			<string>2E322034-70B9-4E22-BFD9-13EAC70FC492</string>
 		</dict>
-		<key>273BB792-E6A7-41F2-A714-D3CE0BFA8D7E</key>
+		<key>2FA800FC-F278-40D7-9AB6-B68F217FE0FA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -525,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>273BB792-E6A7-41F2-A714-D3CE0BFA8D7E.xcactivitylog</string>
+			<string>2FA800FC-F278-40D7-9AB6-B68F217FE0FA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +542,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660850319.41760397</real>
+			<real>661518652.42003202</real>
 			<key>timeStoppedRecording</key>
-			<real>660850321.68120694</real>
+			<real>661518690.72335196</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>273BB792-E6A7-41F2-A714-D3CE0BFA8D7E</string>
+			<string>2FA800FC-F278-40D7-9AB6-B68F217FE0FA</string>
 		</dict>
-		<key>2B7764DD-4644-4935-BCF9-C351E710546C</key>
+		<key>33A68C60-A747-41E1-A45D-5B74449CA147</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -559,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2B7764DD-4644-4935-BCF9-C351E710546C.xcactivitylog</string>
+			<string>33A68C60-A747-41E1-A45D-5B74449CA147.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +576,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661034349.998245</real>
+			<real>661533237.69611704</real>
 			<key>timeStoppedRecording</key>
-			<real>661034352.06237996</real>
+			<real>661533250.13949704</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>2B7764DD-4644-4935-BCF9-C351E710546C</string>
+			<string>33A68C60-A747-41E1-A45D-5B74449CA147</string>
 		</dict>
-		<key>2F6F4EC2-2820-4AEB-8695-4D0356F47EDF</key>
+		<key>3450472E-A27F-4AE6-99C5-E0B79C092047</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -593,7 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2F6F4EC2-2820-4AEB-8695-4D0356F47EDF.xcactivitylog</string>
+			<string>3450472E-A27F-4AE6-99C5-E0B79C092047.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +610,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660996230.55022001</real>
+			<real>661717900.68916798</real>
 			<key>timeStoppedRecording</key>
-			<real>660996232.51358795</real>
+			<real>661717910.46616399</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>2F6F4EC2-2820-4AEB-8695-4D0356F47EDF</string>
+			<string>3450472E-A27F-4AE6-99C5-E0B79C092047</string>
 		</dict>
-		<key>34D2AE2C-D539-4481-9373-900CA64BB632</key>
+		<key>37DC67D0-7EF9-4A46-ACE8-288899591CAC</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -627,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>34D2AE2C-D539-4481-9373-900CA64BB632.xcactivitylog</string>
+			<string>37DC67D0-7EF9-4A46-ACE8-288899591CAC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +644,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660953051.02601504</real>
+			<real>661521798.49463403</real>
 			<key>timeStoppedRecording</key>
-			<real>660953065.06041503</real>
+			<real>661521851.24027705</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>34D2AE2C-D539-4481-9373-900CA64BB632</string>
+			<string>37DC67D0-7EF9-4A46-ACE8-288899591CAC</string>
 		</dict>
-		<key>39DFB466-483D-45B8-84AA-985042FC80B9</key>
+		<key>3922B73F-747E-473E-B13C-29C34148C4E8</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -661,7 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>39DFB466-483D-45B8-84AA-985042FC80B9.xcactivitylog</string>
+			<string>3922B73F-747E-473E-B13C-29C34148C4E8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +678,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660849693.26375902</real>
+			<real>661518242.86503196</real>
 			<key>timeStoppedRecording</key>
-			<real>660849695.93141901</real>
+			<real>661518634.84548903</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>39DFB466-483D-45B8-84AA-985042FC80B9</string>
+			<string>3922B73F-747E-473E-B13C-29C34148C4E8</string>
 		</dict>
-		<key>3EAA7FC6-FD2E-4258-8289-1BF05741D76D</key>
+		<key>3C0257AC-0A70-4420-B87E-39864CE87E51</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -695,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3EAA7FC6-FD2E-4258-8289-1BF05741D76D.xcactivitylog</string>
+			<string>3C0257AC-0A70-4420-B87E-39864CE87E51.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +712,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661002610.11502802</real>
+			<real>661517376.15812004</real>
 			<key>timeStoppedRecording</key>
-			<real>661002612.09712803</real>
+			<real>661517377.11426306</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>3EAA7FC6-FD2E-4258-8289-1BF05741D76D</string>
+			<string>3C0257AC-0A70-4420-B87E-39864CE87E51</string>
 		</dict>
-		<key>412D969C-3F32-4407-B9E5-8A2AE985FF86</key>
+		<key>46ABA17A-90F2-4EF8-AEE1-84869623F764</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -729,7 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>412D969C-3F32-4407-B9E5-8A2AE985FF86.xcactivitylog</string>
+			<string>46ABA17A-90F2-4EF8-AEE1-84869623F764.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -746,15 +746,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660951931.08194304</real>
+			<real>661517616.09715605</real>
 			<key>timeStoppedRecording</key>
-			<real>660951955.42434001</real>
+			<real>661517617.87477303</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>412D969C-3F32-4407-B9E5-8A2AE985FF86</string>
+			<string>46ABA17A-90F2-4EF8-AEE1-84869623F764</string>
 		</dict>
-		<key>44EB3D74-AF3C-46E1-B0E9-4DA418C7DD30</key>
+		<key>4F1B6ED9-B395-4E20-9BBC-601DA98B1270</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -763,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>44EB3D74-AF3C-46E1-B0E9-4DA418C7DD30.xcactivitylog</string>
+			<string>4F1B6ED9-B395-4E20-9BBC-601DA98B1270.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -780,15 +780,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661110441.10402799</real>
+			<real>661559931.16639698</real>
 			<key>timeStoppedRecording</key>
-			<real>661110444.05817604</real>
+			<real>661559933.26673901</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>44EB3D74-AF3C-46E1-B0E9-4DA418C7DD30</string>
+			<string>4F1B6ED9-B395-4E20-9BBC-601DA98B1270</string>
 		</dict>
-		<key>46B5FB95-AAF2-4C2C-954C-DE765DFEC7E2</key>
+		<key>5245E944-585D-4CBA-9FD4-2E10C5EBA5B0</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -797,7 +797,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>46B5FB95-AAF2-4C2C-954C-DE765DFEC7E2.xcactivitylog</string>
+			<string>5245E944-585D-4CBA-9FD4-2E10C5EBA5B0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -814,15 +814,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661034040.40817106</real>
+			<real>661555493.23094499</real>
 			<key>timeStoppedRecording</key>
-			<real>661034043.81813896</real>
+			<real>661555495.22133303</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>46B5FB95-AAF2-4C2C-954C-DE765DFEC7E2</string>
+			<string>5245E944-585D-4CBA-9FD4-2E10C5EBA5B0</string>
 		</dict>
-		<key>4AB91F78-A460-421E-8989-AB7D0CF1912C</key>
+		<key>526528D2-9EE2-45A3-A0F5-93D99CFCDB57</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -831,7 +831,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>4AB91F78-A460-421E-8989-AB7D0CF1912C.xcactivitylog</string>
+			<string>526528D2-9EE2-45A3-A0F5-93D99CFCDB57.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -848,15 +848,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661106881.00484097</real>
+			<real>661688022.09626198</real>
 			<key>timeStoppedRecording</key>
-			<real>661106883.29298699</real>
+			<real>661688024.88118994</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>4AB91F78-A460-421E-8989-AB7D0CF1912C</string>
+			<string>526528D2-9EE2-45A3-A0F5-93D99CFCDB57</string>
 		</dict>
-		<key>5033BD8B-A268-43FE-8DF1-02672A0BBF42</key>
+		<key>5CCFB9ED-8FB6-49D3-9F4B-6B454FF81F0F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -865,7 +865,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>5033BD8B-A268-43FE-8DF1-02672A0BBF42.xcactivitylog</string>
+			<string>5CCFB9ED-8FB6-49D3-9F4B-6B454FF81F0F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -882,15 +882,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661009825.56157196</real>
+			<real>661517713.66379905</real>
 			<key>timeStoppedRecording</key>
-			<real>661009828.03777599</real>
+			<real>661517715.54293895</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>5033BD8B-A268-43FE-8DF1-02672A0BBF42</string>
+			<string>5CCFB9ED-8FB6-49D3-9F4B-6B454FF81F0F</string>
 		</dict>
-		<key>56B62018-49F5-40CF-ABD5-F3ECF8D3275B</key>
+		<key>6FF43E4B-8055-4B2D-9CE3-31204D1C43BF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -899,7 +899,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>56B62018-49F5-40CF-ABD5-F3ECF8D3275B.xcactivitylog</string>
+			<string>6FF43E4B-8055-4B2D-9CE3-31204D1C43BF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -916,387 +916,13 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660953400.97871101</real>
+			<real>661516862.44820595</real>
 			<key>timeStoppedRecording</key>
-			<real>660953403.83477998</real>
+			<real>661516872.59623396</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>56B62018-49F5-40CF-ABD5-F3ECF8D3275B</string>
-		</dict>
-		<key>57611539-CA48-4B7C-9333-C0EB03DCCF36</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>57611539-CA48-4B7C-9333-C0EB03DCCF36.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661077356.82041001</real>
-			<key>timeStoppedRecording</key>
-			<real>661077360.66074097</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>57611539-CA48-4B7C-9333-C0EB03DCCF36</string>
-		</dict>
-		<key>580367ED-D400-4002-BEEC-436B0C9785F3</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>580367ED-D400-4002-BEEC-436B0C9785F3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660850674.67312801</real>
-			<key>timeStoppedRecording</key>
-			<real>660850676.74014199</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>580367ED-D400-4002-BEEC-436B0C9785F3</string>
-		</dict>
-		<key>5DD6140A-4BD6-4C2D-B2C6-85EC7E275783</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>5DD6140A-4BD6-4C2D-B2C6-85EC7E275783.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660850379.56029797</real>
-			<key>timeStoppedRecording</key>
-			<real>660850382.01742303</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>5DD6140A-4BD6-4C2D-B2C6-85EC7E275783</string>
-		</dict>
-		<key>5ED829AA-90B3-473E-AC4B-939FA8E517B3</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>5ED829AA-90B3-473E-AC4B-939FA8E517B3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660952344.56083</real>
-			<key>timeStoppedRecording</key>
-			<real>660952351.788167</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>5ED829AA-90B3-473E-AC4B-939FA8E517B3</string>
-		</dict>
-		<key>6094A112-228D-4578-8BD6-FD49D39AC83D</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>6094A112-228D-4578-8BD6-FD49D39AC83D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661106360.07591605</real>
-			<key>timeStoppedRecording</key>
-			<real>661106379.45044005</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>6094A112-228D-4578-8BD6-FD49D39AC83D</string>
-		</dict>
-		<key>61BB2B73-0D0B-4983-92AD-DB49BE29F48D</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>61BB2B73-0D0B-4983-92AD-DB49BE29F48D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661002723.20373499</real>
-			<key>timeStoppedRecording</key>
-			<real>661002725.24734104</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>61BB2B73-0D0B-4983-92AD-DB49BE29F48D</string>
-		</dict>
-		<key>6678CE69-2846-4466-9410-D5D22022AAD6</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>6678CE69-2846-4466-9410-D5D22022AAD6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660849600.27374399</real>
-			<key>timeStoppedRecording</key>
-			<real>660849622.77442503</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>6678CE69-2846-4466-9410-D5D22022AAD6</string>
-		</dict>
-		<key>679498A6-DF22-4475-B4FE-733611ACC705</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>679498A6-DF22-4475-B4FE-733611ACC705.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660953019.20901</real>
-			<key>timeStoppedRecording</key>
-			<real>660953043.87678301</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>679498A6-DF22-4475-B4FE-733611ACC705</string>
-		</dict>
-		<key>68D092EA-618F-467C-A2D4-7D2A4CDEE978</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>68D092EA-618F-467C-A2D4-7D2A4CDEE978.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661100951.26246703</real>
-			<key>timeStoppedRecording</key>
-			<real>661100953.62250197</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>68D092EA-618F-467C-A2D4-7D2A4CDEE978</string>
-		</dict>
-		<key>6E147A43-9AB1-44AD-AA51-F7AE3FEDF45E</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>6E147A43-9AB1-44AD-AA51-F7AE3FEDF45E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660998307.15286899</real>
-			<key>timeStoppedRecording</key>
-			<real>660998309.39314306</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>6E147A43-9AB1-44AD-AA51-F7AE3FEDF45E</string>
-		</dict>
-		<key>6F007A4B-DA5D-4B41-B095-626B9AA1063A</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>6F007A4B-DA5D-4B41-B095-626B9AA1063A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661009968.49133301</real>
-			<key>timeStoppedRecording</key>
-			<real>661009970.69765401</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>6F007A4B-DA5D-4B41-B095-626B9AA1063A</string>
+			<string>6FF43E4B-8055-4B2D-9CE3-31204D1C43BF</string>
 		</dict>
 		<key>71F5D952-36AD-45E2-A67D-A625ABCD86CB</key>
 		<dict>
@@ -1332,7 +958,7 @@
 			<key>uniqueIdentifier</key>
 			<string>71F5D952-36AD-45E2-A67D-A625ABCD86CB</string>
 		</dict>
-		<key>775830B2-971E-4045-A95D-35DC5B50C454</key>
+		<key>7C7495FA-0984-436A-B4D4-B091106A463B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1341,7 +967,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>775830B2-971E-4045-A95D-35DC5B50C454.xcactivitylog</string>
+			<string>7C7495FA-0984-436A-B4D4-B091106A463B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1358,15 +984,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661101358.240013</real>
+			<real>661689778.13540494</real>
 			<key>timeStoppedRecording</key>
-			<real>661101360.64649796</real>
+			<real>661689780.84334099</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>775830B2-971E-4045-A95D-35DC5B50C454</string>
+			<string>7C7495FA-0984-436A-B4D4-B091106A463B</string>
 		</dict>
-		<key>77E6ACB1-F1D9-4895-BA3F-7A0A6A1DC43C</key>
+		<key>801A268E-6D31-4B51-90CD-FC5B0E908FCC</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1375,7 +1001,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>77E6ACB1-F1D9-4895-BA3F-7A0A6A1DC43C.xcactivitylog</string>
+			<string>801A268E-6D31-4B51-90CD-FC5B0E908FCC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1392,15 +1018,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660851032.37411499</real>
+			<real>661536653.29835498</real>
 			<key>timeStoppedRecording</key>
-			<real>660851034.69928098</real>
+			<real>661536654.24637496</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>77E6ACB1-F1D9-4895-BA3F-7A0A6A1DC43C</string>
+			<string>801A268E-6D31-4B51-90CD-FC5B0E908FCC</string>
 		</dict>
-		<key>77EF51A8-5000-4A08-B01B-678EA3A4E769</key>
+		<key>813D868D-F896-4132-A470-B56C4B790D28</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1409,7 +1035,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>77EF51A8-5000-4A08-B01B-678EA3A4E769.xcactivitylog</string>
+			<string>813D868D-F896-4132-A470-B56C4B790D28.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1426,15 +1052,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660850730.82696795</real>
+			<real>661553807.984447</real>
 			<key>timeStoppedRecording</key>
-			<real>660850732.72024596</real>
+			<real>661553810.45266795</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>77EF51A8-5000-4A08-B01B-678EA3A4E769</string>
+			<string>813D868D-F896-4132-A470-B56C4B790D28</string>
 		</dict>
-		<key>7A8270EA-1AF1-41F0-BC59-93142FFD7A5D</key>
+		<key>86E4557F-ECF0-4815-8844-70C72FB473C4</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1443,7 +1069,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7A8270EA-1AF1-41F0-BC59-93142FFD7A5D.xcactivitylog</string>
+			<string>86E4557F-ECF0-4815-8844-70C72FB473C4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1460,15 +1086,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660917740.06119394</real>
+			<real>661518081.63812494</real>
 			<key>timeStoppedRecording</key>
-			<real>660917743.58951199</real>
+			<real>661518086.88879704</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>7A8270EA-1AF1-41F0-BC59-93142FFD7A5D</string>
+			<string>86E4557F-ECF0-4815-8844-70C72FB473C4</string>
 		</dict>
-		<key>7CC7EFB2-1284-4054-94CF-4AD96907D3AC</key>
+		<key>87E4BFA4-2421-4879-B727-8BC483E4EF9B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1477,7 +1103,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7CC7EFB2-1284-4054-94CF-4AD96907D3AC.xcactivitylog</string>
+			<string>87E4BFA4-2421-4879-B727-8BC483E4EF9B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1494,15 +1120,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660852972.35993004</real>
+			<real>661534669.230564</real>
 			<key>timeStoppedRecording</key>
-			<real>660852977.35358799</real>
+			<real>661534671.13264406</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>7CC7EFB2-1284-4054-94CF-4AD96907D3AC</string>
+			<string>87E4BFA4-2421-4879-B727-8BC483E4EF9B</string>
 		</dict>
-		<key>7D1841FF-01A2-4E82-8808-1FB2DFB93CA9</key>
+		<key>8BA0974C-CCF7-453A-9FF3-7A0EA24E0205</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1511,7 +1137,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7D1841FF-01A2-4E82-8808-1FB2DFB93CA9.xcactivitylog</string>
+			<string>8BA0974C-CCF7-453A-9FF3-7A0EA24E0205.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1528,15 +1154,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661029987.22277606</real>
+			<real>661719193.81671906</real>
 			<key>timeStoppedRecording</key>
-			<real>661029989.56119001</real>
+			<real>661719195.895818</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>7D1841FF-01A2-4E82-8808-1FB2DFB93CA9</string>
+			<string>8BA0974C-CCF7-453A-9FF3-7A0EA24E0205</string>
 		</dict>
-		<key>824D1478-1F16-474D-A7A1-D65EC20A54EA</key>
+		<key>8D5E3989-CED0-4489-8A7D-9C798A16AD33</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1545,7 +1171,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>824D1478-1F16-474D-A7A1-D65EC20A54EA.xcactivitylog</string>
+			<string>8D5E3989-CED0-4489-8A7D-9C798A16AD33.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1562,15 +1188,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660953104.10840797</real>
+			<real>661521672.48240495</real>
 			<key>timeStoppedRecording</key>
-			<real>660953105.91818702</real>
+			<real>661521797.44144106</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>824D1478-1F16-474D-A7A1-D65EC20A54EA</string>
+			<string>8D5E3989-CED0-4489-8A7D-9C798A16AD33</string>
 		</dict>
-		<key>83E1CF17-E211-4604-A241-71BCE03E85CE</key>
+		<key>90E5F2B1-7DDB-4BCA-82FB-DFDE8F2FD2A8</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1579,7 +1205,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>83E1CF17-E211-4604-A241-71BCE03E85CE.xcactivitylog</string>
+			<string>90E5F2B1-7DDB-4BCA-82FB-DFDE8F2FD2A8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1596,15 +1222,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661107088.99191797</real>
+			<real>661517142.352669</real>
 			<key>timeStoppedRecording</key>
-			<real>661107091.50275099</real>
+			<real>661517195.14715195</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>83E1CF17-E211-4604-A241-71BCE03E85CE</string>
+			<string>90E5F2B1-7DDB-4BCA-82FB-DFDE8F2FD2A8</string>
 		</dict>
-		<key>865B98E8-D084-4854-87E9-742F507A01F2</key>
+		<key>91142320-2F07-4A0B-BEA4-FC556FFC83C1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1613,7 +1239,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>865B98E8-D084-4854-87E9-742F507A01F2.xcactivitylog</string>
+			<string>91142320-2F07-4A0B-BEA4-FC556FFC83C1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1630,15 +1256,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661110587.02456105</real>
+			<real>661560010.25623703</real>
 			<key>timeStoppedRecording</key>
-			<real>661110589.00672305</real>
+			<real>661560012.21769297</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>865B98E8-D084-4854-87E9-742F507A01F2</string>
+			<string>91142320-2F07-4A0B-BEA4-FC556FFC83C1</string>
 		</dict>
-		<key>881AB2B3-3839-4248-9FE8-82004AD96788</key>
+		<key>93F60B43-349C-40C5-B424-E4A34F4CDE64</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1647,7 +1273,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>881AB2B3-3839-4248-9FE8-82004AD96788.xcactivitylog</string>
+			<string>93F60B43-349C-40C5-B424-E4A34F4CDE64.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1664,15 +1290,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661009958.98115695</real>
+			<real>661517196.27118897</real>
 			<key>timeStoppedRecording</key>
-			<real>661009961.40396297</real>
+			<real>661517368.10391402</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>881AB2B3-3839-4248-9FE8-82004AD96788</string>
+			<string>93F60B43-349C-40C5-B424-E4A34F4CDE64</string>
 		</dict>
-		<key>897583D3-EE3A-458F-A3D3-0F410AC5901D</key>
+		<key>957BFCC6-7811-43CE-B23A-A73F6485136F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1681,7 +1307,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>897583D3-EE3A-458F-A3D3-0F410AC5901D.xcactivitylog</string>
+			<string>957BFCC6-7811-43CE-B23A-A73F6485136F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1698,15 +1324,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661029485.46025705</real>
+			<real>661536190.65405905</real>
 			<key>timeStoppedRecording</key>
-			<real>661029488.13896704</real>
+			<real>661536192.82229996</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>897583D3-EE3A-458F-A3D3-0F410AC5901D</string>
+			<string>957BFCC6-7811-43CE-B23A-A73F6485136F</string>
 		</dict>
-		<key>8AC095C1-B011-4F0F-84C5-59EE159596A1</key>
+		<key>98CDAAB2-6D2D-4A26-8EF0-3AD1AAE9AB7D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1715,7 +1341,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>8AC095C1-B011-4F0F-84C5-59EE159596A1.xcactivitylog</string>
+			<string>98CDAAB2-6D2D-4A26-8EF0-3AD1AAE9AB7D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1732,15 +1358,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661030197.33984804</real>
+			<real>661517598.30350995</real>
 			<key>timeStoppedRecording</key>
-			<real>661030210.05249202</real>
+			<real>661517599.27191198</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>8AC095C1-B011-4F0F-84C5-59EE159596A1</string>
+			<string>98CDAAB2-6D2D-4A26-8EF0-3AD1AAE9AB7D</string>
 		</dict>
-		<key>8E2ED4DF-3957-47EC-95D2-8279F1C36222</key>
+		<key>9B3ED43D-51B8-4647-8F90-0CE2B9290E5E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1749,7 +1375,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>8E2ED4DF-3957-47EC-95D2-8279F1C36222.xcactivitylog</string>
+			<string>9B3ED43D-51B8-4647-8F90-0CE2B9290E5E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1766,15 +1392,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660851145.74936604</real>
+			<real>661521853.12480402</real>
 			<key>timeStoppedRecording</key>
-			<real>660851147.83558297</real>
+			<real>661521903.09013903</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>8E2ED4DF-3957-47EC-95D2-8279F1C36222</string>
+			<string>9B3ED43D-51B8-4647-8F90-0CE2B9290E5E</string>
 		</dict>
-		<key>8F566A56-6CE7-4BB4-9349-C2883BF047E3</key>
+		<key>9B4A2E53-89A7-459E-9D9F-F581B14D4C8C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1783,7 +1409,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>8F566A56-6CE7-4BB4-9349-C2883BF047E3.xcactivitylog</string>
+			<string>9B4A2E53-89A7-459E-9D9F-F581B14D4C8C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1800,15 +1426,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660849949.17336202</real>
+			<real>661718914.29588604</real>
 			<key>timeStoppedRecording</key>
-			<real>660849951.23384094</real>
+			<real>661718923.81959498</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>8F566A56-6CE7-4BB4-9349-C2883BF047E3</string>
+			<string>9B4A2E53-89A7-459E-9D9F-F581B14D4C8C</string>
 		</dict>
-		<key>91078E55-3F0F-46A1-B7F0-4BA9454479BA</key>
+		<key>9C0325F0-59A4-4246-B300-9AA8DF9CDDCB</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1817,7 +1443,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>91078E55-3F0F-46A1-B7F0-4BA9454479BA.xcactivitylog</string>
+			<string>9C0325F0-59A4-4246-B300-9AA8DF9CDDCB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1834,15 +1460,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660919731.79101503</real>
+			<real>661517752.79343402</real>
 			<key>timeStoppedRecording</key>
-			<real>660919734.05669606</real>
+			<real>661517754.65817797</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>91078E55-3F0F-46A1-B7F0-4BA9454479BA</string>
+			<string>9C0325F0-59A4-4246-B300-9AA8DF9CDDCB</string>
 		</dict>
-		<key>93F18803-7F06-4326-B25C-AE0422C38979</key>
+		<key>A154E3E6-388B-4596-8D4A-10347B0EB450</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1851,7 +1477,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>93F18803-7F06-4326-B25C-AE0422C38979.xcactivitylog</string>
+			<string>A154E3E6-388B-4596-8D4A-10347B0EB450.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1868,15 +1494,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661100885.79472995</real>
+			<real>661692980.01731002</real>
 			<key>timeStoppedRecording</key>
-			<real>661100890.59312904</real>
+			<real>661692982.10514295</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>93F18803-7F06-4326-B25C-AE0422C38979</string>
+			<string>A154E3E6-388B-4596-8D4A-10347B0EB450</string>
 		</dict>
-		<key>99322C1B-1289-41C5-A23F-8172F54F9015</key>
+		<key>A525F7FC-C34D-4EC8-99A9-7397EAEF6CA9</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1885,7 +1511,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>99322C1B-1289-41C5-A23F-8172F54F9015.xcactivitylog</string>
+			<string>A525F7FC-C34D-4EC8-99A9-7397EAEF6CA9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1902,15 +1528,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660850459.23525798</real>
+			<real>661693108.25514495</real>
 			<key>timeStoppedRecording</key>
-			<real>660850461.21879196</real>
+			<real>661693110.136289</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>99322C1B-1289-41C5-A23F-8172F54F9015</string>
+			<string>A525F7FC-C34D-4EC8-99A9-7397EAEF6CA9</string>
 		</dict>
-		<key>99E3DFC6-C2BC-4109-BDA8-C25C5917F87C</key>
+		<key>A702B46C-9AFD-4E1E-AE81-21C0879BAEB0</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1919,7 +1545,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>99E3DFC6-C2BC-4109-BDA8-C25C5917F87C.xcactivitylog</string>
+			<string>A702B46C-9AFD-4E1E-AE81-21C0879BAEB0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1936,15 +1562,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661010068.05182695</real>
+			<real>661718212.35329998</real>
 			<key>timeStoppedRecording</key>
-			<real>661010167.37322199</real>
+			<real>661718214.10968494</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>99E3DFC6-C2BC-4109-BDA8-C25C5917F87C</string>
+			<string>A702B46C-9AFD-4E1E-AE81-21C0879BAEB0</string>
 		</dict>
-		<key>9B72B3E1-5A0B-4687-80E8-6F6EA5ED3941</key>
+		<key>A8C0CE7D-EBAE-4797-BA92-F1AE9A9E2282</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1953,7 +1579,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>9B72B3E1-5A0B-4687-80E8-6F6EA5ED3941.xcactivitylog</string>
+			<string>A8C0CE7D-EBAE-4797-BA92-F1AE9A9E2282.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1970,15 +1596,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660998417.77881098</real>
+			<real>661718751.208776</real>
 			<key>timeStoppedRecording</key>
-			<real>660998420.26303303</real>
+			<real>661718838.73345399</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>9B72B3E1-5A0B-4687-80E8-6F6EA5ED3941</string>
+			<string>A8C0CE7D-EBAE-4797-BA92-F1AE9A9E2282</string>
 		</dict>
-		<key>9C34B82D-DBD6-4EF6-AABA-E61DC1D8028B</key>
+		<key>ADC100B5-832E-4C7B-874D-F40A93DD69E4</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1987,7 +1613,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>9C34B82D-DBD6-4EF6-AABA-E61DC1D8028B.xcactivitylog</string>
+			<string>ADC100B5-832E-4C7B-874D-F40A93DD69E4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2004,15 +1630,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660850778.96712303</real>
+			<real>661542344.79841006</real>
 			<key>timeStoppedRecording</key>
-			<real>660850780.90498698</real>
+			<real>661542347.59274805</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>9C34B82D-DBD6-4EF6-AABA-E61DC1D8028B</string>
+			<string>ADC100B5-832E-4C7B-874D-F40A93DD69E4</string>
 		</dict>
-		<key>A0173F46-11B9-4576-A221-1A6EB8D8AD8F</key>
+		<key>B028E09B-0595-49E9-8C30-12B1A2F19EF6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2021,7 +1647,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A0173F46-11B9-4576-A221-1A6EB8D8AD8F.xcactivitylog</string>
+			<string>B028E09B-0595-49E9-8C30-12B1A2F19EF6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2038,15 +1664,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660998056.94538105</real>
+			<real>661510860.85008395</real>
 			<key>timeStoppedRecording</key>
-			<real>660998059.95044398</real>
+			<real>661511494.75339699</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>A0173F46-11B9-4576-A221-1A6EB8D8AD8F</string>
+			<string>B028E09B-0595-49E9-8C30-12B1A2F19EF6</string>
 		</dict>
-		<key>A2CC1CCE-2658-4394-A4F6-522BE599746A</key>
+		<key>B256FF5D-51FA-448B-A91A-B4E35FF1B4D2</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2055,7 +1681,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A2CC1CCE-2658-4394-A4F6-522BE599746A.xcactivitylog</string>
+			<string>B256FF5D-51FA-448B-A91A-B4E35FF1B4D2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2072,15 +1698,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661029762.76807904</real>
+			<real>661517368.46324301</real>
 			<key>timeStoppedRecording</key>
-			<real>661029764.92708898</real>
+			<real>661517373.95579398</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>A2CC1CCE-2658-4394-A4F6-522BE599746A</string>
+			<string>B256FF5D-51FA-448B-A91A-B4E35FF1B4D2</string>
 		</dict>
-		<key>A356CE60-C5EA-4CCB-850A-D1C12FB870AB</key>
+		<key>B602D46B-1E87-4444-A367-DA5FE9342C34</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2089,7 +1715,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A356CE60-C5EA-4CCB-850A-D1C12FB870AB.xcactivitylog</string>
+			<string>B602D46B-1E87-4444-A367-DA5FE9342C34.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2106,15 +1732,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660919122.31977701</real>
+			<real>661718607.93573904</real>
 			<key>timeStoppedRecording</key>
-			<real>660919124.72940099</real>
+			<real>661718610.32643497</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>A356CE60-C5EA-4CCB-850A-D1C12FB870AB</string>
+			<string>B602D46B-1E87-4444-A367-DA5FE9342C34</string>
 		</dict>
-		<key>A3A7F491-2CD6-49A1-B318-6030ED4724B8</key>
+		<key>BB58FDD0-F873-4501-94E8-0D900EDE228E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2123,7 +1749,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A3A7F491-2CD6-49A1-B318-6030ED4724B8.xcactivitylog</string>
+			<string>BB58FDD0-F873-4501-94E8-0D900EDE228E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2140,15 +1766,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661101133.86575794</real>
+			<real>661554093.90017796</real>
 			<key>timeStoppedRecording</key>
-			<real>661101135.74995506</real>
+			<real>661554095.72059596</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>A3A7F491-2CD6-49A1-B318-6030ED4724B8</string>
+			<string>BB58FDD0-F873-4501-94E8-0D900EDE228E</string>
 		</dict>
-		<key>A6F02B58-E216-49C3-9BEB-B37E6A6667D8</key>
+		<key>BF0B6BC5-EBB5-443C-9E05-F4573EE7F8DF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2157,7 +1783,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A6F02B58-E216-49C3-9BEB-B37E6A6667D8.xcactivitylog</string>
+			<string>BF0B6BC5-EBB5-443C-9E05-F4573EE7F8DF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2174,15 +1800,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661029911.37573004</real>
+			<real>661511708.323892</real>
 			<key>timeStoppedRecording</key>
-			<real>661029913.29305804</real>
+			<real>661516698.11085796</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>A6F02B58-E216-49C3-9BEB-B37E6A6667D8</string>
+			<string>BF0B6BC5-EBB5-443C-9E05-F4573EE7F8DF</string>
 		</dict>
-		<key>AC6CC851-50D3-45B8-8D5F-7CE2CE9D587C</key>
+		<key>BF865DAA-6DF3-430F-9418-829A1E283408</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2191,7 +1817,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>AC6CC851-50D3-45B8-8D5F-7CE2CE9D587C.xcactivitylog</string>
+			<string>BF865DAA-6DF3-430F-9418-829A1E283408.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2208,15 +1834,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660850233.00765896</real>
+			<real>661517836.11172903</real>
 			<key>timeStoppedRecording</key>
-			<real>660850234.93923402</real>
+			<real>661518005.80352795</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>AC6CC851-50D3-45B8-8D5F-7CE2CE9D587C</string>
+			<string>BF865DAA-6DF3-430F-9418-829A1E283408</string>
 		</dict>
-		<key>B49F9357-D0CB-4EC5-A77A-176A6F1353B0</key>
+		<key>C4DBEF0B-0C99-4A67-85CE-0F2017DED835</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2225,7 +1851,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B49F9357-D0CB-4EC5-A77A-176A6F1353B0.xcactivitylog</string>
+			<string>C4DBEF0B-0C99-4A67-85CE-0F2017DED835.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2242,15 +1868,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661009694.91972101</real>
+			<real>661719077.67412102</real>
 			<key>timeStoppedRecording</key>
-			<real>661009756.82695198</real>
+			<real>661719079.70784497</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>B49F9357-D0CB-4EC5-A77A-176A6F1353B0</string>
+			<string>C4DBEF0B-0C99-4A67-85CE-0F2017DED835</string>
 		</dict>
-		<key>B66E5A74-3DB4-40F4-A01C-47758EA8688C</key>
+		<key>CAAF0F18-C5A6-47BE-B2FA-C09DBE37FF71</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2259,7 +1885,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B66E5A74-3DB4-40F4-A01C-47758EA8688C.xcactivitylog</string>
+			<string>CAAF0F18-C5A6-47BE-B2FA-C09DBE37FF71.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2276,15 +1902,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661025171.09007597</real>
+			<real>661516874.34009695</real>
 			<key>timeStoppedRecording</key>
-			<real>661025209.10054803</real>
+			<real>661516909.04577398</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>B66E5A74-3DB4-40F4-A01C-47758EA8688C</string>
+			<string>CAAF0F18-C5A6-47BE-B2FA-C09DBE37FF71</string>
 		</dict>
-		<key>BAA79836-F2D3-4FD3-968E-42D27A4840EA</key>
+		<key>CC808494-B2B7-4781-92A5-5B1F2F0E2F60</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2293,7 +1919,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BAA79836-F2D3-4FD3-968E-42D27A4840EA.xcactivitylog</string>
+			<string>CC808494-B2B7-4781-92A5-5B1F2F0E2F60.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2310,15 +1936,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661029848.39803195</real>
+			<real>661542634.82816899</real>
 			<key>timeStoppedRecording</key>
-			<real>661029850.25771594</real>
+			<real>661542636.91865003</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>BAA79836-F2D3-4FD3-968E-42D27A4840EA</string>
+			<string>CC808494-B2B7-4781-92A5-5B1F2F0E2F60</string>
 		</dict>
-		<key>BCA3FC62-4C90-49CD-B8A0-8D57AE5EC5B6</key>
+		<key>D3A4CECB-C696-4E69-8B8C-18AAEA6A093C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2327,7 +1953,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BCA3FC62-4C90-49CD-B8A0-8D57AE5EC5B6.xcactivitylog</string>
+			<string>D3A4CECB-C696-4E69-8B8C-18AAEA6A093C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2344,15 +1970,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660950951.61122596</real>
+			<real>661718170.70188296</real>
 			<key>timeStoppedRecording</key>
-			<real>660950955.58296502</real>
+			<real>661718172.55815399</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>BCA3FC62-4C90-49CD-B8A0-8D57AE5EC5B6</string>
+			<string>D3A4CECB-C696-4E69-8B8C-18AAEA6A093C</string>
 		</dict>
-		<key>C531A84F-FF0F-471E-9AEC-880D4770DE54</key>
+		<key>D5CC2255-B8EA-464F-B4B1-4208978D1540</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2361,7 +1987,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C531A84F-FF0F-471E-9AEC-880D4770DE54.xcactivitylog</string>
+			<string>D5CC2255-B8EA-464F-B4B1-4208978D1540.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2378,15 +2004,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660998183.61889899</real>
+			<real>661521104.65662503</real>
 			<key>timeStoppedRecording</key>
-			<real>660998186.04839504</real>
+			<real>661521107.29699504</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>C531A84F-FF0F-471E-9AEC-880D4770DE54</string>
+			<string>D5CC2255-B8EA-464F-B4B1-4208978D1540</string>
 		</dict>
-		<key>CD389BDE-89A1-44FB-BB65-542AE2ED9602</key>
+		<key>DB12769B-BAE0-41A6-B1B1-DE6FA1199F1C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2395,7 +2021,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>CD389BDE-89A1-44FB-BB65-542AE2ED9602.xcactivitylog</string>
+			<string>DB12769B-BAE0-41A6-B1B1-DE6FA1199F1C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2412,15 +2038,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660937613.14182305</real>
+			<real>661518635.53742194</real>
 			<key>timeStoppedRecording</key>
-			<real>660937615.92785299</real>
+			<real>661518651.14310801</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>CD389BDE-89A1-44FB-BB65-542AE2ED9602</string>
+			<string>DB12769B-BAE0-41A6-B1B1-DE6FA1199F1C</string>
 		</dict>
-		<key>CFA8C6D2-313F-4480-A07F-CEC4ABDF5D29</key>
+		<key>DBED4D17-9A3F-4E0E-BD8A-60DFFD05B2B5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2429,7 +2055,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>CFA8C6D2-313F-4480-A07F-CEC4ABDF5D29.xcactivitylog</string>
+			<string>DBED4D17-9A3F-4E0E-BD8A-60DFFD05B2B5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2446,15 +2072,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661010183.13282204</real>
+			<real>661718277.67086399</real>
 			<key>timeStoppedRecording</key>
-			<real>661010184.91275501</real>
+			<real>661718279.73378801</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>CFA8C6D2-313F-4480-A07F-CEC4ABDF5D29</string>
+			<string>DBED4D17-9A3F-4E0E-BD8A-60DFFD05B2B5</string>
 		</dict>
-		<key>D3A1B863-BB75-401E-A892-0F441C3C4F1A</key>
+		<key>DF7E6F11-4097-4DFF-A8E3-445A399DF50D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2463,7 +2089,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D3A1B863-BB75-401E-A892-0F441C3C4F1A.xcactivitylog</string>
+			<string>DF7E6F11-4097-4DFF-A8E3-445A399DF50D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2480,15 +2106,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660952109.85146403</real>
+			<real>661521488.56489396</real>
 			<key>timeStoppedRecording</key>
-			<real>660952121.83617795</real>
+			<real>661521671.431355</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>D3A1B863-BB75-401E-A892-0F441C3C4F1A</string>
+			<string>DF7E6F11-4097-4DFF-A8E3-445A399DF50D</string>
 		</dict>
-		<key>D3F75393-B1BF-41A9-8823-7CDB38878FB4</key>
+		<key>E2C5E732-C601-4115-B392-2199A7DDEC8D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2497,7 +2123,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D3F75393-B1BF-41A9-8823-7CDB38878FB4.xcactivitylog</string>
+			<string>E2C5E732-C601-4115-B392-2199A7DDEC8D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2514,15 +2140,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661010167.685233</real>
+			<real>661717997.76402402</real>
 			<key>timeStoppedRecording</key>
-			<real>661010172.82407498</real>
+			<real>661717999.58387804</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>D3F75393-B1BF-41A9-8823-7CDB38878FB4</string>
+			<string>E2C5E732-C601-4115-B392-2199A7DDEC8D</string>
 		</dict>
-		<key>D4F5064F-CD9D-4389-9655-2D5D09767DA2</key>
+		<key>E31D6ABF-5764-43D5-BDAA-076A7519D2C8</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2531,7 +2157,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D4F5064F-CD9D-4389-9655-2D5D09767DA2.xcactivitylog</string>
+			<string>E31D6ABF-5764-43D5-BDAA-076A7519D2C8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2548,15 +2174,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661009757.13193405</real>
+			<real>661516700.53681695</real>
 			<key>timeStoppedRecording</key>
-			<real>661009786.79355502</real>
+			<real>661516711.81526101</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>D4F5064F-CD9D-4389-9655-2D5D09767DA2</string>
+			<string>E31D6ABF-5764-43D5-BDAA-076A7519D2C8</string>
 		</dict>
-		<key>D58C2321-DF16-4497-BA09-CABA22EFEC3A</key>
+		<key>E54CC94D-3497-4411-BFE3-142523B5F2D4</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2565,7 +2191,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D58C2321-DF16-4497-BA09-CABA22EFEC3A.xcactivitylog</string>
+			<string>E54CC94D-3497-4411-BFE3-142523B5F2D4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2582,15 +2208,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661101992.52187002</real>
+			<real>661516916.94940805</real>
 			<key>timeStoppedRecording</key>
-			<real>661101994.62813699</real>
+			<real>661517140.28333104</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>D58C2321-DF16-4497-BA09-CABA22EFEC3A</string>
+			<string>E54CC94D-3497-4411-BFE3-142523B5F2D4</string>
 		</dict>
-		<key>D8CF2133-C2D0-4372-8070-B4A7E527C599</key>
+		<key>E887B1EF-F15A-4BAF-9C83-11107AE1D0D5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2599,7 +2225,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D8CF2133-C2D0-4372-8070-B4A7E527C599.xcactivitylog</string>
+			<string>E887B1EF-F15A-4BAF-9C83-11107AE1D0D5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2616,15 +2242,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>660951985.84199405</real>
+			<real>661554041.99647701</real>
 			<key>timeStoppedRecording</key>
-			<real>660951995.74874198</real>
+			<real>661554043.94418395</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>D8CF2133-C2D0-4372-8070-B4A7E527C599</string>
+			<string>E887B1EF-F15A-4BAF-9C83-11107AE1D0D5</string>
 		</dict>
-		<key>DAC1FD99-488C-4734-8FB8-8A25365808D2</key>
+		<key>E8B94624-88E7-444B-B030-F71865310DEC</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2633,7 +2259,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>DAC1FD99-488C-4734-8FB8-8A25365808D2.xcactivitylog</string>
+			<string>E8B94624-88E7-444B-B030-F71865310DEC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2650,15 +2276,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661009799.11886406</real>
+			<real>661534712.15260994</real>
 			<key>timeStoppedRecording</key>
-			<real>661009801.41214299</real>
+			<real>661534714.00762498</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>DAC1FD99-488C-4734-8FB8-8A25365808D2</string>
+			<string>E8B94624-88E7-444B-B030-F71865310DEC</string>
 		</dict>
-		<key>DD557B72-E0DE-449D-9C2D-8EEE7EE200A5</key>
+		<key>EA0CA2AF-6ED3-4CD9-950F-44C6C4374BE2</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2667,7 +2293,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>DD557B72-E0DE-449D-9C2D-8EEE7EE200A5.xcactivitylog</string>
+			<string>EA0CA2AF-6ED3-4CD9-950F-44C6C4374BE2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2684,15 +2310,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661025217.89494395</real>
+			<real>661516781.320889</real>
 			<key>timeStoppedRecording</key>
-			<real>661025224.21119499</real>
+			<real>661516800.80493498</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>DD557B72-E0DE-449D-9C2D-8EEE7EE200A5</string>
+			<string>EA0CA2AF-6ED3-4CD9-950F-44C6C4374BE2</string>
 		</dict>
-		<key>E1537A24-668E-453B-9E21-7BB22B3BB3B6</key>
+		<key>EBB5CA86-FDC6-45FF-9F52-54A3516D567E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2701,7 +2327,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E1537A24-668E-453B-9E21-7BB22B3BB3B6.xcactivitylog</string>
+			<string>EBB5CA86-FDC6-45FF-9F52-54A3516D567E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2718,15 +2344,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661034227.91563797</real>
+			<real>661516855.33224595</real>
 			<key>timeStoppedRecording</key>
-			<real>661034229.89671302</real>
+			<real>661516857.44496906</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>E1537A24-668E-453B-9E21-7BB22B3BB3B6</string>
+			<string>EBB5CA86-FDC6-45FF-9F52-54A3516D567E</string>
 		</dict>
-		<key>E1D3C033-2C8B-43EA-89A9-24C24962F3D5</key>
+		<key>EC196E96-6F5F-4202-9F87-B498EDA4B1FE</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2735,7 +2361,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E1D3C033-2C8B-43EA-89A9-24C24962F3D5.xcactivitylog</string>
+			<string>EC196E96-6F5F-4202-9F87-B498EDA4B1FE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2752,15 +2378,15 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661030342.67169797</real>
+			<real>661564486.01743603</real>
 			<key>timeStoppedRecording</key>
-			<real>661030344.52726901</real>
+			<real>661564488.17350805</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>E1D3C033-2C8B-43EA-89A9-24C24962F3D5</string>
+			<string>EC196E96-6F5F-4202-9F87-B498EDA4B1FE</string>
 		</dict>
-		<key>E538800D-D2C3-461C-A6C4-7FDDC7429836</key>
+		<key>EF8E5988-29B7-4747-9209-3F95C275B79C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2769,7 +2395,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E538800D-D2C3-461C-A6C4-7FDDC7429836.xcactivitylog</string>
+			<string>EF8E5988-29B7-4747-9209-3F95C275B79C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2786,353 +2412,13 @@
 			<key>signature</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>timeStartedRecording</key>
-			<real>661010057.226089</real>
+			<real>661564421.51347601</real>
 			<key>timeStoppedRecording</key>
-			<real>661010059.03685796</real>
+			<real>661564424.02269006</real>
 			<key>title</key>
 			<string>Run LtlToBuhiAutomato</string>
 			<key>uniqueIdentifier</key>
-			<string>E538800D-D2C3-461C-A6C4-7FDDC7429836</string>
-		</dict>
-		<key>E5E2220E-E25E-480F-82D2-EFBF26D015A3</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>E5E2220E-E25E-480F-82D2-EFBF26D015A3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660850500.83175695</real>
-			<key>timeStoppedRecording</key>
-			<real>660850503.00063598</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>E5E2220E-E25E-480F-82D2-EFBF26D015A3</string>
-		</dict>
-		<key>E72977E9-EDF7-4EA8-811F-3520D054B5A6</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>E72977E9-EDF7-4EA8-811F-3520D054B5A6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661101568.94648898</real>
-			<key>timeStoppedRecording</key>
-			<real>661101571.88322902</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>E72977E9-EDF7-4EA8-811F-3520D054B5A6</string>
-		</dict>
-		<key>EA79C53F-942E-474F-B88F-3778913BD835</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>EA79C53F-942E-474F-B88F-3778913BD835.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661106901.001243</real>
-			<key>timeStoppedRecording</key>
-			<real>661106903.183074</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>EA79C53F-942E-474F-B88F-3778913BD835</string>
-		</dict>
-		<key>EF76E8D2-1F07-488F-B168-64D01D043D57</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>EF76E8D2-1F07-488F-B168-64D01D043D57.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661102145.53691399</real>
-			<key>timeStoppedRecording</key>
-			<real>661102147.7141</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>EF76E8D2-1F07-488F-B168-64D01D043D57</string>
-		</dict>
-		<key>F2164B31-0ACC-401F-94BF-1FD0DC39B162</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F2164B31-0ACC-401F-94BF-1FD0DC39B162.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661102183.60648406</real>
-			<key>timeStoppedRecording</key>
-			<real>661102185.61175895</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>F2164B31-0ACC-401F-94BF-1FD0DC39B162</string>
-		</dict>
-		<key>F320A485-73FB-4A94-B7D5-11A0FBFA7EEF</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F320A485-73FB-4A94-B7D5-11A0FBFA7EEF.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660952453.72202206</real>
-			<key>timeStoppedRecording</key>
-			<real>660952820.40950096</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>F320A485-73FB-4A94-B7D5-11A0FBFA7EEF</string>
-		</dict>
-		<key>F63C803C-1C19-4F40-BBDB-68F3F8F8FD06</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F63C803C-1C19-4F40-BBDB-68F3F8F8FD06.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660952939.60808694</real>
-			<key>timeStoppedRecording</key>
-			<real>660952968.69585097</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>F63C803C-1C19-4F40-BBDB-68F3F8F8FD06</string>
-		</dict>
-		<key>FAA3E412-7384-49AB-A822-4B9C7C6F50B2</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>FAA3E412-7384-49AB-A822-4B9C7C6F50B2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660953066.74058795</real>
-			<key>timeStoppedRecording</key>
-			<real>660953085.48607802</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>FAA3E412-7384-49AB-A822-4B9C7C6F50B2</string>
-		</dict>
-		<key>FAF677B8-F9E4-47B2-84C0-DEE432AF39D2</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>FAF677B8-F9E4-47B2-84C0-DEE432AF39D2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>661029710.52070796</real>
-			<key>timeStoppedRecording</key>
-			<real>661029713.16968799</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>FAF677B8-F9E4-47B2-84C0-DEE432AF39D2</string>
-		</dict>
-		<key>FD471C92-AF4F-4E10-A38C-2EBFFA10EFFF</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>FD471C92-AF4F-4E10-A38C-2EBFFA10EFFF.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LtlToBuhiAutomato project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>LtlToBuhiAutomato</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>timeStartedRecording</key>
-			<real>660951131.53391302</real>
-			<key>timeStoppedRecording</key>
-			<real>660951133.40983295</real>
-			<key>title</key>
-			<string>Run LtlToBuhiAutomato</string>
-			<key>uniqueIdentifier</key>
-			<string>FD471C92-AF4F-4E10-A38C-2EBFFA10EFFF</string>
+			<string>EF8E5988-29B7-4747-9209-3F95C275B79C</string>
 		</dict>
 	</dict>
 </dict>
